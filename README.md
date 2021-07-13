@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @moguchev
+- :cityscape: , I’m working in OZON 
 - 👀 I’m interested in architecture of highload services
 - 📫 How to reach me: abracadabra.14@mail.ru
 
