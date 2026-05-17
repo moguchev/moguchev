@@ -35,6 +35,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="80" height="80"/>&nbsp;
   <img src="https://github.com/moguchev/moguchev/assets/32189038/47de0948-cb81-431d-8781-c7cf6e5a93b3" title="ScyllDB" alt="ScyllDB" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cassandra/cassandra-original-wordmark.svg" title="Cassandra" alt="Cassandra" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="80" height="80"/>&nbsp;
   <img src="https://github.com/moguchev/moguchev/assets/32189038/8acaed7c-5733-424d-9fd6-1d06580c47f0" title="Memcached" alt="Memcached" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="Kafka" alt="Kafka" width="80" height="80"/>&nbsp;
